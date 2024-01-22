@@ -131,6 +131,10 @@ final class PolicyManager
                 'reflected-xss',
                 'worker-src',
                 'prefetch-src',
+                'script-src-elem',
+                'script-src-attr',
+                'style-src-elem',
+                'style-src-attr',
             ]);
         }
 
